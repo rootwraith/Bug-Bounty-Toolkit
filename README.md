@@ -42,7 +42,8 @@ cd bug-bounty-toolkit-professional
 chmod +x install.sh
 
 # Run the installer
-./install.sh
+
+sudo ./install.sh
 
 #after the installing run bughunter-help that will help you to understand how to use these tools
 
