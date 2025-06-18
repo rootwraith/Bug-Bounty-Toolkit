@@ -33,7 +33,7 @@ This toolkit comes pre-configured with commonly used bug bounty tools, for examp
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/bug-bounty-toolkit-professional.git
+git clone https://github.com/rootwraith/Bug-Bounty-Toolkit
 
 # Navigate to the toolkit directory
 cd bug-bounty-toolkit-professional
